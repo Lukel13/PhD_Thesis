@@ -1,0 +1,6 @@
+Parameters to use when visualising models in ParaView:
+
+Density colour bar: Cold and Hot (inverted)
+
+Strain rate colour bar: Yellow 15 (log scale)
+Strain rate range used: 6.0e-20  to  1.5e-12
